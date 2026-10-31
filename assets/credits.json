@@ -1,0 +1,42 @@
+[
+  {
+    "id": "megane",
+    "file": "Renault Megane IV Sedan 1X7A5847.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Renault_Megane_IV_Sedan_1X7A5847.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Alexander-93\" title=\"User:Alexander-93\">Alexander Migl</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "egea",
+    "file": "Fiat Tipo 356 Berlina.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fiat_Tipo_356_Berlina.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:GinaCostanza76\" title=\"User:GinaCostanza76\">GinaCostanza76</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "clio",
+    "file": "2018 Renault Clio GT-Line Front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Renault_Clio_GT-Line_Front.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Vauxford\" title=\"User:Vauxford\">Vauxford</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "corolla",
+    "file": "2019 Toyota Corolla front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Toyota_Corolla_front.jpg",
+    "author": "ae_works",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "focus",
+    "file": "2018 Ford Focus sedan (front).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_sedan_(front).jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:User3204\" title=\"User:User3204\"> <b><span style=\"color: #000;background-color:#003686;padding:2px;border-radius:2px;color:#FFFFFF\">User</span><span style=\"padding:3px; color:#d7000f;border-radius:2px;\">3204</span></b></a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+]
